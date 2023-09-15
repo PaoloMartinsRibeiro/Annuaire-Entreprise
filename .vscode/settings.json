@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "[typescript]": {
+        "editer.formatOnSave": false
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    }
+}
